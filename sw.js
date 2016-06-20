@@ -1,5 +1,9 @@
 var cacheName = 'v1';
-var filesToCache = [];
+var filesToCache = [
+  '/',
+  'index.html',
+  'inlined.css'
+];
 
 self.addEventListener('install', function(event) {
   console.log('[ServiceWorker] Install');
