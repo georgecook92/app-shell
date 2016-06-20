@@ -3,8 +3,7 @@
 var CACHE_ARRAY = [
   '',
   'index.html',
-  'inlined.css',
-  'assets'
+  'inlined.css'
 ];
 
 var CACHE_NAME = 'v4';
