@@ -1,3 +1,12 @@
+
+// cached items
+var CACHE_ARRAY = [
+  '/',
+  'index.html',
+  'inlined.css',
+  '/assets'
+];
+
 var CACHE_NAME = 'v3';
 
 //install event
