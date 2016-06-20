@@ -1,13 +1,13 @@
 
 // cached items
 var CACHE_ARRAY = [
-  '/',
-  'index.html',
-  'inlined.css',
-  '/assets'
+  '/app-shell/',
+  'app-shell/index.html',
+  'app-shell/inlined.css',
+  'app-shell//assets'
 ];
 
-var CACHE_NAME = 'v3';
+var CACHE_NAME = 'v4';
 
 //install event
 self.addEventListener('install', (event) => {
