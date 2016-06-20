@@ -1,10 +1,10 @@
 
 // cached items
 var CACHE_ARRAY = [
-  '/app-shell/',
-  'app-shell/index.html',
-  'app-shell/inlined.css',
-  'app-shell//assets'
+  '',
+  'index.html',
+  'inlined.css',
+  'assets'
 ];
 
 var CACHE_NAME = 'v4';
